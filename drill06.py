@@ -105,4 +105,5 @@ while running:
     handle_events()  # 사용자 입력을 받아 들인다
     update_world()  # 월드 내의 객체들의 상호작용을 계산하고 그 결과를 업데이트한다
 
+
 close_canvas()
